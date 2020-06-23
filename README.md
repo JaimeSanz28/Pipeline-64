@@ -1,6 +1,6 @@
 # Pipeline-64
 
-                   <img src="https://i.ytimg.com/vi/uMCCxuGIGtw/hqdefault.jpg">
+<img src="https://i.ytimg.com/vi/uMCCxuGIGtw/hqdefault.jpg">
 
 
 
