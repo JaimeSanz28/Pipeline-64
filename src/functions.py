@@ -60,14 +60,14 @@ def drawAvg(home, rooms):
     print ("The average price for a house with thouse attributes is", avg_price, "€")
     return avg_price
 
-
+"""
 def changeCurr(curr):
     data_filter = data_api[data_api["index"] == f"{curr}"]
     z = data_filter[data_filter["rates"]]
     print f"(The most expensive in {curr} costs)" + max_price*z
     return max_price
 
-
+"""
     
 
 
